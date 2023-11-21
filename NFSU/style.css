@@ -1,0 +1,14 @@
+header{
+    background-color: aliceblue;
+    border-width: 20px;
+}
+nav.right{
+   text-align: right;
+}
+section.b{
+    background-image: url(C.jpg);
+
+}
+section{
+    text-align: center;
+}
